@@ -2,7 +2,7 @@
 Dart diline ait bilgi ve evrakları terimleri ve kütüphaneleri türkçe tercüme ederek fayda sağlamak.
 
 # - İşlenecek Dökümanlar.
- - [Language → Dil](Language - Dil.md)
+ - [Language → Dil](language-dil.md)
     - Introduction → Giriş
     - Variables → Değişkenler
     - Operators → Operatörler
